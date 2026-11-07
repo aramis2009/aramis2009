@@ -1,4 +1,4 @@
-<img src="clawd-working-typing.svg" width="100" align="left" alt="Clawd typing" />
+<img src="https://cdn.jsdelivr.net/gh/abderrahimghazali/clawd-pet@main/public/pets/clawd-working-typing.svg" width="100" align="left" alt="Clawd typing" />
 
 <h1 align="center">Aramis Berton</h1>
 

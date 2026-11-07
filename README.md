@@ -4,6 +4,6 @@
 
 <p align="center">17 · Concepción, Chile</p>
 
-Today:
+#Today
 Building a health insurance commission payment engine at [Reffactor](https://reffactor.com).
 Also working on my own projects.

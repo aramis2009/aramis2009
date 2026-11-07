@@ -10,11 +10,9 @@
 ## Today
 
 Building a health insurance commission payment engine at [Reffactor](https://reffactor.com).
-Also working on my own projects, like [alfi.ai](https://alfi-page.vercel.app).
+Also working on my own projects.
 
 ## Projects
-
-- [alfi.ai](https://alfi-page.vercel.app) — an agent that lives inside your chat and keeps the context of group conversations.
 - [Aramis-web](https://github.com/aramis2009/Aramis-web) — my personal site.
 
 ## Links

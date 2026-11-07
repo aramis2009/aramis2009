@@ -1,8 +1,6 @@
 <h1 align="center">Aramis Berton</h1>
 
-<p align="center">
-  <img src="clawd-working-typing.svg" width="120" alt="Clawd typing" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/abderrahimghazali/clawd-pet@main/public/pets/clawd-working-typing.svg" width="120" alt="Clawd typing" />
 
 <h3 align="center">Software Engineer @ Reffactor</h3>
 

@@ -1,6 +1,6 @@
-<h1 align="center">Aramis Berton</h1>
+<img src="clawd-working-typing.svg" width="100" align="left" alt="Clawd typing" />
 
-<img src="https://cdn.jsdelivr.net/gh/abderrahimghazali/clawd-pet@main/public/pets/clawd-working-typing.svg" width="120" alt="Clawd typing" />
+<h1 align="center">Aramis Berton</h1>
 
 <h3 align="center">Software Engineer @ Reffactor</h3>
 
@@ -8,3 +8,7 @@ Now: Building a health insurance commission payment engine at [Reffactor](https:
 and working on my own projects.
 
 [X](https://x.com/AramisBerton) • [Instagram](https://www.instagram.com/aramis.berton) • [LinkedIn](https://www.linkedin.com/in/aramis-berton) • [GitHub](https://github.com/aramis2009)
+
+<p align="right">
+  <img src="clawd-ninja.svg" width="100" alt="Clawd ninja" />
+</p>

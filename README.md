@@ -1,6 +1,5 @@
-<img src="clawd-working-typing.svg" height="100" align="right" alt="Clawd typing" />
+<h1 align="center">Aramis Berton <img src="clawd-typing-bajo.svg" height="40" alt="Clawd typing" /></h1>
 
-<h1 align="center">Aramis Berton</h1>
 <h3 align="center">Software Engineer @ Reffactor</h3>
 
 Now: Building a health insurance commission payment engine at [Reffactor](https://reffactor.com).

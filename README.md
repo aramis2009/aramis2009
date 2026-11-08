@@ -1,4 +1,4 @@
-<h1 align="center">Aramis Berton&emsp;&emsp;<img src="clawd-working-typing.svg" height="95" alt="Clawd typing" /></h1>
+<h1 align="center">Aramis Berton <img src="clawd-working-typing.svg" height="48" align="absmiddle" alt="Clawd typing" /></h1>
 
 <h3 align="center">Software Engineer @ Reffactor</h3>
 

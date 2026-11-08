@@ -1,5 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/abderrahimghazali/clawd-pet@main/public/pets/clawd-working-typing.svg" height="10" alt="Clawd typing"/>
-<h1 align="center"> Aramis Berton</h1>
+<h1 align="center"><img src="clawd-typing.svg" height="44" alt="Clawd typing" /> Aramis Berton</h1>
 
 <h3 align="center">Software Engineer @ Reffactor</h3>
 
